@@ -1,5 +1,5 @@
-# IITP_TRASH
-IITP trash recognition challenge
+# KERIS_TRASH
+KERIS trash recognition challenge
 
 Dataset: `recycle_challenge`
 * num_test_images: 3000
