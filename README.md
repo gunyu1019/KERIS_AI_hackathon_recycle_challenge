@@ -29,3 +29,12 @@ optimizer를 기본 SDG에서 RMSprop로 교체해 보았습니다.
 
 ### KERIS014_recycle_challenge_9
 optimizer를 기본 RMSprop에서 Adagrad로 교체해 보았습니다.
+
+### KERIS014_recycle_challenge_17
+optimizer를 Adagard에서 기본적인 모듈인 Adam으로 다시 돌려보았습니다.
+
+### KERIS014_recycle_challenge_22
+optimizer를 AdamW로 교체하고 학습률을 epochs 300회로 높인 뒤 layers 값을 [3,4,6,3] (34-layers)로 상향하였습니다.
+
+### KERIS014_recycle_challenge_26
+사진 크기를 Resize를 통해 (224, 224)에서 (448, 448)로 높혔습니다. , lr_scheduler를 StepLR 대신 ReduceLROnPlateau를 사용하였습니다.
