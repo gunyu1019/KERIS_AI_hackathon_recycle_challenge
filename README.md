@@ -20,7 +20,7 @@
 중반부부터 학습횟수를 증가시켰으며, betch_size, layer 등 개선해나가기 시작했습니다.
 ### [KERIS014_recycle_challenge_2](KERIS014_recycle_challenge_2)
 ![val_acc_0](img_img_data/val_acc_0.png)
-![train_loss_0](img_data/val_acc_0.png)
+![train_loss_0](img_data/train_loss_0.png)
 
 생활 폐기물 이미지 분류하는 인공지능 알고리즘의 베이스 코드입니다. [원본](https://github.com/keris2020/hackathon/tree/main/recycle_challenge)
 
