@@ -60,7 +60,7 @@ AdamW 모듈을 AdamP 모듈로 교체하였습니다.
 RandomVerticalFlip() 제외하였고, AdamW로 다시 교체하였습니다. 앞으로 AdamW와 AdamP를 겸용으로 사용할것입니다.<br>
 또한, 목요일날 진행한 특강을 반영하였습니다.
 
-### [KERIS014_recycle_challenge_5<img src="KERIS014_recycle_challenge_51)
+### [KERIS014_recycle_challenge_5](KERIS014_recycle_challenge_51)
 <img src="img_data/val_acc_10.png" width="300px"> <img src="img_data/train_loss_10.png" width="300px"> <br>
 37번과 같은 코드입니다. 작동 도중에 중단하여 재작동 하였습니다.
 
