@@ -38,3 +38,25 @@ optimizer를 AdamW로 교체하고 학습률을 epochs 300회로 높인 뒤 laye
 
 ### KERIS014_recycle_challenge_26
 사진 크기를 Resize를 통해 (224, 224)에서 (448, 448)로 높혔습니다. , lr_scheduler를 StepLR 대신 ReduceLROnPlateau를 사용하였습니다.
+
+### KERIS014_recycle_challenge_31
+RandomVerticalFlip()를 통해 Data Augmentation를 늘렸고, batch_size 를 64에서 128로 교체하였습니다.
+
+### KERIS014_recycle_challenge_33
+AdamW 모듈을 AdamP 모듈로 교체하였습니다.
+
+### KERIS014_recycle_challenge_37
+RandomVerticalFlip() 제외하였고, AdamW로 다시 교체하였습니다. 앞으로 AdamW와 AdamP를 겸용으로 사용할것입니다.<br>
+또한, 목요일날 진행한 특강을 반영하였습니다.
+
+### KERIS014_recycle_challenge_51
+37번과 같은 코드입니다. 작동 도중에 중단하여 재작동 하였습니다.
+
+### KERIS014_recycle_challenge_53
+목요일날 진행한 특강을 반영하였습니다. 대신 AdamW를 대신에 AdamP를 기반으로 고쳐보았습니다.
+
+### KERIS014_recycle_challenge_66
+기존 31번를 개선하고 AdamW를 기반으로 다시 돌리게 되었습니다. 또한 통계에 러닝레이트를 추가하게 되었습니다.
+
+### KERIS014_recycle_challenge_68
+기존 31번를 개선하고 AdamP를 기반으로 다시 돌리게 되었습니다. 또한 통계에 러닝레이트를 추가하게 되었습니다.
