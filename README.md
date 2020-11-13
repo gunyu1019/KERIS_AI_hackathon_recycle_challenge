@@ -65,7 +65,7 @@ RandomVerticalFlip() 제외하였고, AdamW로 다시 교체하였습니다. 앞
 37번과 같은 코드입니다. 작동 도중에 중단하여 재작동 하였습니다.
 
 ### [KERIS014_recycle_challenge_53](KERIS014_recycle_challenge_53)
-<img src="img_data/val_acc_11.png" width="300px"> <img src="img_data/train_loss_111.png" width="300px"> <br>
+<img src="img_data/val_acc_11.png" width="300px"> <img src="img_data/train_loss_11.png" width="300px"> <br>
 목요일날 진행한 특강을 반영하였습니다. 대신 AdamW를 대신에 AdamP를 기반으로 고쳐보았습니다.
 
 ### [KERIS014_recycle_challenge_66](KERIS014_recycle_challenge_66)
