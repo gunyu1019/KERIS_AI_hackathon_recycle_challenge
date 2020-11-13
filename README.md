@@ -19,16 +19,16 @@
 초반부에는 Adam 모듈에서 여러 optimizer를 시도해 보았습니다.<br>
 중반부부터 학습횟수를 증가시켰으며, betch_size, layer 등 개선해나가기 시작했습니다.
 ### [KERIS014_recycle_challenge_2](KERIS014_recycle_challenge_2)
-<img src="img_data/val_acc_0.png" width="100px"> <img src="img_data/train_loss_0.png" width="100px">
+<img src="img_data/val_acc_0.png" width="300px"> <img src="img_data/train_loss_0.png" width="300px">
 
 생활 폐기물 이미지 분류하는 인공지능 알고리즘의 베이스 코드입니다. [원본](https://github.com/keris2020/hackathon/tree/main/recycle_challenge)
 
 ### [KERIS014_recycle_challenge_5](KERIS014_recycle_challenge_5)
-<img src="img_data/val_acc_1.png" width="100px"> <img src="img_data/train_loss_1.png" width="100px">
+<img src="img_data/val_acc_1.png" width="300px"> <img src="img_data/train_loss_1.png" width="300px">
 optimizer를 기본 Adam에서 SDG로 교체해 보았습니다.
 
 ### [KERIS014_recycle_challenge_8](KERIS014_recycle_challenge_8)
-<img src="img_data/val_acc_2.png" width="100px"> <img src="img_data/train_loss_2.png" width="100px">
+<img src="img_data/val_acc_2.png" width="300px"> <img src="img_data/train_loss_2.png" width="300px">
 optimizer를 기본 SDG에서 RMSprop로 교체해 보았습니다.
 
 ### [KERIS014_recycle_challenge_9](KERIS014_recycle_challenge_9)
