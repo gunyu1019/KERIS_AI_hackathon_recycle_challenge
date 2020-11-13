@@ -24,9 +24,11 @@
 생활 폐기물 이미지 분류하는 인공지능 알고리즘의 베이스 코드입니다. [원본](https://github.com/keris2020/hackathon/tree/main/recycle_challenge)
 
 ### [KERIS014_recycle_challenge_5](KERIS014_recycle_challenge_5)
+![val_acc_1](img_data/val_acc_1.png) ![train_loss_1](img_data/train_loss_1.png)
 optimizer를 기본 Adam에서 SDG로 교체해 보았습니다.
 
 ### [KERIS014_recycle_challenge_8](KERIS014_recycle_challenge_8)
+![val_acc_1](img_data/val_acc_2.png) ![train_loss_2](img_data/train_loss_2.png)
 optimizer를 기본 SDG에서 RMSprop로 교체해 보았습니다.
 
 ### [KERIS014_recycle_challenge_9](KERIS014_recycle_challenge_9)
